@@ -13,9 +13,9 @@
     "title": "GTRM Perú"
   },
   "legend": {
-    "edgeLabel": "Participacion",
-    "colorLabel": "Membrecia",
-    "nodeLabel": "Organizacion - WG"
+    "edgeLabel": "Participación",
+    "colorLabel": "Tipo",
+    "nodeLabel": "Organizacion - Subgrupo - GTRM Plenario"
   },
   "features": {
     "search": true,
